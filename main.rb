@@ -1,3 +1,2 @@
-def welcome-message
-  print "Hello World\n"
-  
+def welcome_message
+  print "Hello World!\n"
