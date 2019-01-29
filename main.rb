@@ -6,6 +6,7 @@ def sum
   b = 3 * a + 2
   return b
   
+
 def bubble_sort(array)
   n = array.length
   loop do
